@@ -1,0 +1,5 @@
+console.log("merhaba benim adım batu ")
+console.log("liseye gidiyorum 9.sınıf öğrencisiyim ")
+console.log("en sevdiğim ders matematik")
+console.log("en sevdiğim renk mavi")
+console.log("en sevdiğim oyun satranç")
